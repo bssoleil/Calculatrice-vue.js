@@ -54,6 +54,10 @@ color: #000;
   grid-column: 1/3;
 }
 
+.btn {
+border: 1.5px solid #000;
+background-color: lightgray;
+}
 
 
 

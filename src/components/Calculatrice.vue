@@ -36,5 +36,24 @@
 </script>
 
 <style>
+.calculatrice {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-auto-rows: minmax(50px, auto);
+ 
+}
+
+.display {
+  grid-column: 1/5;
+
+}
+
+
+
+.operator {
+background-color: dodgerblue;
+color: white;
+}
+
 
 </style>

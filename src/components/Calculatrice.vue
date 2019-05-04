@@ -18,7 +18,7 @@
     <div class="btn">2</div>
     <div class="btn">3</div>
     <div class="btn">+</div>
-    <div class="zero">0</div>
+    <div class="btn zero">0</div>
     <div class="btn">.</div>
     <div class="btn">=</div>
   </div>
@@ -35,7 +35,7 @@
   }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .calculatrice {
 display: grid;
 grid-template-columns: repeat(4, 1fr);

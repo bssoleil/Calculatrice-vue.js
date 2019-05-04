@@ -59,5 +59,13 @@ border: 1.5px solid #000;
 background-color: lightgray;
 }
 
+.operator {
+  background-color: dodgerblue;
+color: white;
+}
+
+
+
+
 
 </style>
